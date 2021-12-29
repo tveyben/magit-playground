@@ -21,3 +21,4 @@ This is a bad commit
 And this is one more
 Well - not so bad after all
 Really great actually
+One more change
