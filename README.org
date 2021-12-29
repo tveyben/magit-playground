@@ -1,2 +1,20 @@
-* PLayground for learning magit
+* Playground for learning magit
 In Spacemacs, thus defaults to a different set of bindings
+* First commit
+** Must setup remotes
+[[https://magit.vc/manual/magit/The-Two-Remotes.html][The two remotes]] will be prompted for at the first commit
+Lets try to use the (apparently not well known) /push-remote/ feature
+| Key     | Action                                  |
+|---------+-----------------------------------------|
+| SPC g s | git-status                              |
+| ?       | (to get the help)                       |
+| c       | commit                                  |
+| c       | create commit                           |
+|         | write the commit msg                    |
+| C-c     | save the commit msg and continue        |
+| SPC g s | git status                              |
+| P       | Push                                    |
+| p       | push-remote (first time sets the value) |
+| u       | (upstream)  (first time sets the value) |
+|         |                                         |
+
