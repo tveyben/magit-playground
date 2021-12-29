@@ -1,0 +1,2 @@
+* PLayground for learning magit
+In Spacemacs, thus defaults to a different set of bindings
