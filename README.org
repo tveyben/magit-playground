@@ -8,8 +8,6 @@ Lets try to use the (apparently not well known) /push-remote/ feature
 |---------+-----------------------------------------|
 | SPC g s | git-status                              |
 | ?       | (to get the help)                       |
-| c       | commit                                  |
-| c       | create commit                           |
 |         | write the commit msg                    |
 | C-c     | save the commit msg and continue        |
 | SPC g s | git status                              |
