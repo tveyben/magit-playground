@@ -19,4 +19,3 @@ Lets try to use the (apparently not well known) /push-remote/ feature
 * Bad commit
 This is a bad commit
 And this is one more
-
