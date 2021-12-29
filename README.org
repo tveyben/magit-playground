@@ -16,3 +16,5 @@ Lets try to use the (apparently not well known) /push-remote/ feature
 | u       | (upstream)  (first time sets the value) |
 |         |                                         |
 
+* Bad commit
+This is a bad commit
